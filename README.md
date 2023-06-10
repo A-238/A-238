@@ -7,6 +7,9 @@
  - 🥰 ツール: PhpStorm, Sourcetree, Postman
  - ⚡ 興味: API設計, CI/CD(Github Actions), アーキテクチャ, マネジメント
 
+### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-238&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ### GitHub Status:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-238&theme=github_dark)](https://github.com/A-238/github-readme-stats)
 
