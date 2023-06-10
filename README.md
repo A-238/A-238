@@ -1,10 +1,14 @@
-## 近況
+## 経験
+ - 💬 メイン: PHP(Laravel) + JavaScript(Node.js, TypeScript, Nuxt.js, Express.js, Cypress) + RDB(MySQL, PostgreSQL)
+   - 主にバックエンド。ECサイトからAPIサーバーなど。独自フレームワークでの実装経験も
+   - 時々フロントもﾁｮｯﾄｻﾜﾙ
+ - 🤔 やったことなくはない: React(Next.js), Python
+   - 既存ECと連携したSNS開発、Pythonでの画像処理などちょこっと担当
+ - 👍 その他: AWS(API Gateway, Lambda, S3, ElastiCach for Redis), Docker
+ - 🥰 ツール: PhpStorm, Sourcetree, Postman
 
 ### GitHub Status:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-238&theme=github_dark)](https://github.com/A-238/github-readme-stats)
-
-### Trophy:
-[![trophy](https://github-profile-trophy.vercel.app/?username=A-238&theme=monokai)](https://github.com/A-238/github-profile-trophy)
 
 ### GitHub Streak:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=A-238&theme=windows-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
