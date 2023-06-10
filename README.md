@@ -5,6 +5,7 @@
    - 既存ECと連携したSNS開発、Pythonでの画像処理などちょこっと
  - 👍 その他: AWS(API Gateway, Lambda, S3, ElastiCach for Redis), Docker
  - 🥰 ツール: PhpStorm, Sourcetree, Postman
+ - ⚡ 興味: API設計, CI/CD(Github Actions), アーキテクチャ, マネジメント
 
 ### GitHub Status:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-238&theme=github_dark)](https://github.com/A-238/github-readme-stats)
