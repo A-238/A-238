@@ -1,9 +1,8 @@
-## 経験
  - 💬 メイン: PHP(Laravel) + JavaScript(Node.js, TypeScript, Nuxt.js, Express.js, Cypress) + RDB(MySQL, PostgreSQL)
    - 主にバックエンド。ECサイトからAPIサーバーなど。独自フレームワークでの実装経験も
    - 時々フロントもﾁｮｯﾄｻﾜﾙ
  - 🤔 やったことなくはない: React(Next.js), Python
-   - 既存ECと連携したSNS開発、Pythonでの画像処理などちょこっと担当
+   - 既存ECと連携したSNS開発、Pythonでの画像処理などちょこっと
  - 👍 その他: AWS(API Gateway, Lambda, S3, ElastiCach for Redis), Docker
  - 🥰 ツール: PhpStorm, Sourcetree, Postman
 
