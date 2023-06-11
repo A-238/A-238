@@ -4,7 +4,7 @@
  - 🤔 やったことなくはない: React(Next.js), Python
    - 既存ECと連携したSNS開発、Pythonでの画像処理などちょこっと
  - 👍 その他: AWS(API Gateway, Lambda, S3, ElastiCach for Redis), Docker
- - 🥰 ツール: PhpStorm, Sourcetree, Postman
+ - 🥰 ツール: PhpStorm, Fork, Postman
  - ⚡ 興味: API設計, CI/CD(Github Actions), アーキテクチャ, マネジメント
 
 <h3 align="left">Languages and Tools:</h3>
