@@ -1,4 +1,4 @@
- - 💬 メイン: PHP(Laravel) + JavaScript(Node.js, TypeScript, Nuxt.js, Express.js, Cypress) + RDB(MySQL, PostgreSQL)
+ - 💬 メイン: PHP(Laravel) + JavaScript(Node.js, TypeScript, Nuxt.js, Express.js, Cypress, Jest) + RDB(MySQL, PostgreSQL)
    - 主にバックエンド。ECサイトからAPIサーバーなど。独自フレームワークでの実装経験も
    - 時々フロントもﾁｮｯﾄｻﾜﾙ
  - 🤔 やったことなくはない: React(Next.js), Python
