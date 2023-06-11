@@ -8,8 +8,8 @@
  - ⚡ 興味: API設計, CI/CD(Github Actions), アーキテクチャ, マネジメント
 
 <p>
-  <img alt="summary" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-238&theme=transparent" />
-  <img alt="language" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A-238&theme=transparent" />
+  <img alt="summary" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-238&theme=transparent" />
+  <img alt="language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A-238&theme=transparent" />
 </p>
 
 ### Top Languages
