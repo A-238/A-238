@@ -7,13 +7,12 @@
  - 🥰 ツール: PhpStorm, Sourcetree, Postman
  - ⚡ 興味: API設計, CI/CD(Github Actions), アーキテクチャ, マネジメント
 
-<p>
-  <img alt="summary" height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-238&theme=transparent" />
-  <img alt="language" height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A-238&theme=transparent" />
-</p>
 
-### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-238&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+### Summary
+<p>
+  <img alt="summary" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-238&theme=transparent" />
+  <img alt="language" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A-238&theme=transparent" />
+</p>
 
 ### GitHub Status:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-238&theme=github_dark)](https://github.com/A-238/github-readme-stats)
