@@ -7,6 +7,9 @@
  - 🥰 ツール: PhpStorm, Sourcetree, Postman
  - ⚡ 興味: API設計, CI/CD(Github Actions), アーキテクチャ, マネジメント
 
+[![summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-238&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-238&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
