@@ -1,11 +1,11 @@
  - 💬 メイン: PHP(Laravel) + JavaScript(Node.js, TypeScript, Nuxt.js, Express.js, Cypress, Jest) + RDB(MySQL, PostgreSQL)
-   - 主にバックエンド。ECサイトからAPIサーバーなど。独自フレームワークでの実装経験も
-   - 時々フロントもﾁｮｯﾄｻﾜﾙ
+   - 主にバックエンド。なぜか今はSREとしてTerraform介してAWSと格闘中
+   - 環境はWindows11 + WSL(Ubuntu) + Docker(Docker Desktop)
  - 🤔 やったことなくはない: React(Next.js), Python
-   - 既存ECと連携したSNS開発、Pythonでの画像処理などちょこっと
- - 👍 その他: AWS(API Gateway, Lambda, S3, ElastiCach for Redis), Docker
- - 🥰 ツール: PhpStorm, Fork, Postman
- - ⚡ 興味: API設計, GraphQL, CI/CD(Github Actions), アーキテクチャ, マネジメント
+   - 既存ECと連携したSNS開発、Python(Lambda)での画像処理など
+ - 👍 その他: AWS(Lambdaが好き)
+ - 🥰 好きなツール: PhpStorm, Fork, Docker Desktop
+ - ⚡ 興味: GraphQL, CI/CD(Github Actions), アーキテクチャ, IaC
 
 ### Summary:
 <p>
