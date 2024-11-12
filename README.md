@@ -1,3 +1,5 @@
+Fumiya Aga
+
  - 💬 メイン: PHP(Laravel) + JavaScript(Node.js, TypeScript, Nuxt.js, Express.js, Cypress, Jest) + RDB(MySQL, PostgreSQL)
    - Webアプリケーションプログラマー
    - 今はSREとしてAWSと格闘中
